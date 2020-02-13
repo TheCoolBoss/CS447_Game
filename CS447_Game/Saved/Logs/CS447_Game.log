@@ -2694,17 +2694,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.12-07.30.22:366][359]LogContentValidation: Display: Validating Texture2D /Game/Win-Text.Win-Text
 [2020.02.12-07.30.22:967][393]LogSlate: Window 'Win-Text' being destroyed
 [2020.02.12-07.30.22:975][393]LogSlate: Window 'Win-Text' being destroyed
-[2020.02.12-07.31.54:530][832]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/dungeon_left_wall_2.dungeon_left_wall_2
-[2020.02.12-07.31.56:478][935]LogSlate: Window 'dungeon_left_wall_2' being destroyed
-[2020.02.12-07.31.56:483][935]LogSlate: Window 'dungeon_left_wall_2' being destroyed
-[2020.02.12-07.32.15:702][840]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Win-Message.Win-Message
-[2020.02.12-07.32.48:219][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Win-Message" FILE="../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447_Game/CS447_Game/Content/Win-Message.uasset" SILENT=true
-[2020.02.12-07.32.48:233][571]LogSavePackage: Moving '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447_Game/CS447_Game/Saved/Win-MessageDBEBB0AD427BF7FF177051B049F82A57.tmp' to '../../../../../../Users/sdn49/Desktop/Current CS/CS 447/CS447_Game/CS447_Game/Content/Win-Message.uasset'
-[2020.02.12-07.32.48:254][571]AssetCheck: New page: Asset Save: Win-Message
-[2020.02.12-07.32.48:254][571]LogContentValidation: Display: Validating WidgetBlueprint /Game/Win-Message.Win-Message
-[2020.02.12-07.32.50:003][672]LogSlate: Window 'Win-Message' being destroyed
-[2020.02.12-07.32.50:007][672]LogSlate: Window 'Win-Message' being destroyed
-[2020.02.12-07.32.50:015][672]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
-[2020.02.12-07.32.50:015][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.02.12-07.32.50:034][672]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
-[2020.02.12-07.32.50:034][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
