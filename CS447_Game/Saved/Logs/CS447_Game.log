@@ -1175,3 +1175,422 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.19-00.44.10:904][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2020.02.19-00.44.13:414][351]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2020.02.19-00.44.15:321][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-00.46.21:894][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-00.47.10:442][161]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor)
+[2020.02.19-00.47.11:578][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-00.48.06:057][939]LogEditorViewport: Clicking on Actor (LMB): Player_Character_C (ThirdPersonCharacter)
+[2020.02.19-00.48.07:021][986]LogEditorViewport: Clicking on Actor (context menu): Player_Character_C (ThirdPersonCharacter)
+[2020.02.19-00.48.07:066][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-00.48.08:153][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.19-00.48.08:170][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Player_Character.Player_Character
+[2020.02.19-00.48.42:779][265]BlueprintLog: New page: Compile Player_Character
+[2020.02.19-00.48.43:220][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.02.19-00.48.44:762][305]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-00.48.44:804][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.48.44:804][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-00.48.44:804][305]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 8:48:44 AM)
+[2020.02.19-00.48.44:804][305]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-00.48.44:835][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031107s)
+[2020.02.19-00.48.44:836][305]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-00.48.44:836][305]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2020.02.19-00.48.44:836][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032080s)
+[2020.02.19-00.48.44:881][305]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.02.19-00.48.44:892][305]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-00.48.44:917][305]LogInit: FAudioDevice initialized.
+[2020.02.19-00.48.44:929][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.48.44:961][305]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-00.48.44:972][305]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.18-16.48.44
+[2020.02.19-00.48.44:974][305]LogWorld: Bringing up level for play took: 0.011175
+[2020.02.19-00.48.44:990][305]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.072
+[2020.02.19-00.48.44:991][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.48.49:118][413]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.48.52:503][507]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.48.52:534][508]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.48.52:616][510]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.48.52:656][511]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.48.56:322][616]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.48.56:323][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.48.56:362][616]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-00.48.56:424][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-00.48.56:424][616]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.48.56:499][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.02.19-00.48.56:690][617]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.19-00.49.18:180][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-00.49.21:763][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-00.49.27:133][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-00.49.36:054][687]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Instructions.Instructions
+[2020.02.19-00.49.36:468][687]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BloodEffect.BloodEffect_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0
+[2020.02.19-00.51.54:738][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_0.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.51.54:739][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.51.54:739][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.51.54:739][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.51.54:739][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-00.51.54:739][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-00.51.54:739][706]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_3.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-00.51.54:739][706]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_72).  Import failed...
+[2020.02.19-00.51.54:739][706]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BloodEffect.BloodEffect_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_0.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_4.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_5.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_6.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_7.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_8.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_5.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_6.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_7.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0.CanvasPanelSlot_5
+[2020.02.19-00.55.24:294][607]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_8.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5
+[2020.02.19-00.55.24:294][607]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_5) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_73).  Import failed...
+[2020.02.19-00.55.24:295][607]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_5"''
+[2020.02.19-00.55.30:592][800]LogUObjectHash: Compacting FUObjectHashTables data took  10.18ms
+[2020.02.19-00.55.31:144][800]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/ThirdPersonExampleMap_Auto1BF10993A48A6DF8EF8D30883662B5D79.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.02.19-00.55.31:149][800]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.647
+[2020.02.19-00.55.31:149][800]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.647
+[2020.02.19-00.55.31:152][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Instructions] ([1] browsable assets)...
+[2020.02.19-00.55.31:152][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Instructions]
+[2020.02.19-00.55.31:171][800]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Instructions_Auto1759C86984EC70C38F3935BBA467009E0.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Instructions_Auto1.uasset'
+[2020.02.19-00.55.31:172][800]LogFileHelpers: Auto-saving content packages took 0.021
+[2020.02.19-00.56.37:824][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BloodEffect.BloodEffect_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_7.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_8.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_10.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_4.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_5.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_11.WidgetTree_0.CanvasPanel_0
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/RockCounter.RockCounter:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7 or CanvasPanelSlot /Game/RockCounter.RockCounter_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/RockCounter.RockCounter:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7 or CanvasPanelSlot /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7
+[2020.02.19-00.56.37:825][642]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/RockCounter.RockCounter:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_11.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_7
+[2020.02.19-00.56.37:825][642]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/RockCounter.RockCounter:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_74).  Import failed...
+[2020.02.19-00.56.37:825][642]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_7"''
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BloodEffect.BloodEffect_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_7.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_8.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_10.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:217][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_4.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_5.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_11.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_12.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_14.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_15.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_16.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_17.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_18.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_19.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_20.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_14.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_15.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_16.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_17.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_18.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_19.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15 or CanvasPanelSlot /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0.CanvasPanelSlot_15
+[2020.02.19-01.00.15:218][836]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_20.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15
+[2020.02.19-01.00.15:218][836]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_15) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_75).  Import failed...
+[2020.02.19-01.00.15:218][836]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_15"''
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BloodEffect.BloodEffect_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Game-Over-Message.Game-Over-Message_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/HealthBar.HealthBar_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/RockCounter.RockCounter_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/keyPickupMsg.keyPickupMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/gameWonMsg.gameWonMsg_C:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_7.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_8.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_10.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_4.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_5.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_11.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:617][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_12.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_14.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_15.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_16.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_17.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_18.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_19.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_20.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_21.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_22.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BloodEffect.BloodEffect:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Instructions_C_23.WidgetTree_0.CanvasPanel_0
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_10.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Game/ThirdPersonBP/Blueprints/Instructions.Instructions:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_3.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_4.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_5.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_11.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_7.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_8.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_12.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_14.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_15.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_16.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_17.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_18.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_19.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_20.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_21.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_22.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1 or CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_23.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1
+[2020.02.19-01.00.54:618][493]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_8:Instructions_C_9.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_1) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_72).  Import failed...
+[2020.02.19-01.00.54:618][493]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2020.02.19-01.01.19:076][467]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/InstructionsD92A55FA456A0560A06BAEA0576D39E2.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/ThirdPersonBP/Blueprints/Instructions.uasset'
+[2020.02.19-01.01.19:738][496]BlueprintLog: New page: Compile Instructions
+[2020.02.19-01.01.19:814][496]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.02.19-01.01.23:014][624]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-01.01.23:055][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.01.23:055][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-01.01.23:055][624]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 9:01:23 AM)
+[2020.02.19-01.01.23:055][624]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-01.01.23:091][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036085s)
+[2020.02.19-01.01.23:092][624]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-01.01.23:092][624]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2020.02.19-01.01.23:092][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037380s)
+[2020.02.19-01.01.23:157][624]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.02.19-01.01.23:175][624]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-01.01.23:200][624]LogInit: FAudioDevice initialized.
+[2020.02.19-01.01.23:212][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-01.01.23:246][624]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-01.01.23:258][624]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.18-17.01.23
+[2020.02.19-01.01.23:260][624]LogWorld: Bringing up level for play took: 0.012869
+[2020.02.19-01.01.23:280][624]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.362
+[2020.02.19-01.01.23:280][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.01.27:899][748]LogBlueprintUserMessages: [ThirdPersonCharacter_167] I made noise
+[2020.02.19-01.01.28:954][777]LogBlueprintUserMessages: [ThirdPersonCharacter_167] I made noise
+[2020.02.19-01.01.29:722][798]LogBlueprintUserMessages: [ThirdPersonCharacter_167] I made noise
+[2020.02.19-01.01.29:975][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] I made noise
+[2020.02.19-01.01.30:203][810]LogBlueprintUserMessages: [ThirdPersonCharacter_167] I made noise
+[2020.02.19-01.01.30:250][811]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-01.01.30:385][814]LogBlueprintUserMessages: [ThirdPersonCharacter_167] I made noise
+[2020.02.19-01.01.30:386][814]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-01.01.30:440][815]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-01.01.30:588][818]LogBlueprintUserMessages: [ThirdPersonCharacter_167] I made noise
+[2020.02.19-01.01.30:645][819]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-01.01.32:264][854]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-01.01.32:305][855]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-01.01.33:017][872]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-01.01.33:066][873]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-01.01.34:641][912]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-01.01.34:643][912]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-01.01.34:680][913]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-01.01.34:680][913]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-01.01.34:680][913]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-01.01.34:680][913]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-01.01.38:127][  8]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-01.01.39:730][ 52]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-01.01.39:768][ 53]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-01.01.45:289][204]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-01.01.55:810][490]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.01.55:810][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-01.01.55:848][490]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-01.01.55:918][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-01.01.55:918][490]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.01.56:016][490]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.02.19-01.01.56:198][491]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.19-01.06.50:187][557]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.02.19-01.06.50:187][557]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.055
+[2020.02.19-01.06.50:189][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Instructions] ([1] browsable assets)...
+[2020.02.19-01.06.50:189][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Instructions]
+[2020.02.19-01.06.50:232][557]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Instructions_Auto2F18510A84DA9B62EA14A858ED28CEE9E.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Instructions_Auto2.uasset'
+[2020.02.19-01.06.50:234][557]LogFileHelpers: Auto-saving content packages took 0.046
+[2020.02.19-01.19.32:837][284]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2020.02.19-01.19.33:407][284]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/ThirdPersonExampleMap_Auto3DF43ECCB44911AA6B349FA89345BF331.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.02.19-01.19.33:413][284]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.635
+[2020.02.19-01.19.33:413][284]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.635
+[2020.02.19-01.19.33:416][284]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Player_Character] ([1] browsable assets)...
+[2020.02.19-01.19.33:416][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Player_Character]
+[2020.02.19-01.19.33:522][284]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Player_Character_Auto349E9ECB54FD74BCD36FDE2AEC0488844.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Player_Character_Auto3.uasset'
+[2020.02.19-01.19.33:524][284]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Instructions] ([1] browsable assets)...
+[2020.02.19-01.19.33:524][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Instructions]
+[2020.02.19-01.19.33:561][284]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Instructions_Auto3F77B614C4F10ED55A875A8A104F06065.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Instructions_Auto3.uasset'
+[2020.02.19-01.19.33:562][284]LogFileHelpers: Auto-saving content packages took 0.146
+[2020.02.19-01.25.38:211][833]BlueprintLog: New page: Compile Player_Character
+[2020.02.19-01.25.38:629][833]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.02.19-01.25.40:625][906]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-01.25.40:702][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.25.40:702][906]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.19-01.25.40:704][906]LogPlayLevel: [PlayLevel] Compiling Instructions before play...
+[2020.02.19-01.25.41:038][906]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.02.19-01.25.41:039][906]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (1 blueprints)
+[2020.02.19-01.25.41:039][906]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 9:25:41 AM)
+[2020.02.19-01.25.41:039][906]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-01.25.41:074][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036209s)
+[2020.02.19-01.25.41:075][906]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-01.25.41:075][906]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2020.02.19-01.25.41:075][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037131s)
+[2020.02.19-01.25.41:122][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.19-01.25.41:138][906]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-01.25.41:163][906]LogInit: FAudioDevice initialized.
+[2020.02.19-01.25.41:176][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-01.25.41:209][906]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-01.25.41:222][906]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-17.25.41
+[2020.02.19-01.25.41:225][906]LogWorld: Bringing up level for play took: 0.014358
+[2020.02.19-01.25.41:242][906]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.324
+[2020.02.19-01.25.41:243][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.25.49:173][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.25.49:173][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-01.25.49:204][202]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-01.25.49:282][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-01.25.49:282][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.25.49:347][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.19-01.25.49:444][203]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.19-01.26.06:952][875]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Player_Character0E2FDFC941F4642F1E39FFBC53CEAFBE.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/ThirdPersonBP/Blueprints/Player_Character.uasset'
+[2020.02.19-01.26.07:351][889]BlueprintLog: New page: Compile Player_Character
+[2020.02.19-01.26.07:690][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.02.19-01.26.08:735][922]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-01.26.08:798][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.26.08:798][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-01.26.08:798][922]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 9:26:08 AM)
+[2020.02.19-01.26.08:799][922]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-01.26.08:826][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027238s)
+[2020.02.19-01.26.08:826][922]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-01.26.08:827][922]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2020.02.19-01.26.08:827][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028043s)
+[2020.02.19-01.26.08:877][922]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.02.19-01.26.08:889][922]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-01.26.08:911][922]LogInit: FAudioDevice initialized.
+[2020.02.19-01.26.08:921][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-01.26.08:957][922]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-01.26.08:970][922]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-17.26.08
+[2020.02.19-01.26.08:972][922]LogWorld: Bringing up level for play took: 0.013733
+[2020.02.19-01.26.08:990][922]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.072
+[2020.02.19-01.26.08:990][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.26.11:965][ 12]LogPackageName: SearchForPackageOnDisk took   0.139s, but failed to resolve None.umap.
+[2020.02.19-01.26.12:129][ 13]LogPackageName: SearchForPackageOnDisk took   0.145s, but failed to resolve None.umap.
+[2020.02.19-01.26.12:129][ 13]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-01.26.12:129][ 13]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-01.26.12:129][ 13]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2020.02.19-01.26.12:129][ 13]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2020.02.19-01.26.12:129][ 13]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-01.26.12:130][ 13]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2020.02.19-01.26.12:130][ 13]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2020.02.19-01.26.12:131][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.26.12:131][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-01.26.12:155][ 13]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-01.26.12:226][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-01.26.12:226][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.26.12:297][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.02.19-01.26.12:441][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.19-01.26.21:046][300]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-01.26.21:056][300]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-01.27.23:928][335]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Player_CharacterC879619E453B50B410AA2485DCCF8F51.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/ThirdPersonBP/Blueprints/Player_Character.uasset'
+[2020.02.19-01.27.24:263][347]BlueprintLog: New page: Compile Player_Character
+[2020.02.19-01.27.24:608][347]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.02.19-01.27.25:662][385]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-01.27.25:727][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.27.25:727][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-01.27.25:727][385]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 9:27:25 AM)
+[2020.02.19-01.27.25:727][385]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-01.27.25:761][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033607s)
+[2020.02.19-01.27.25:761][385]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-01.27.25:761][385]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2020.02.19-01.27.25:761][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034511s)
+[2020.02.19-01.27.25:817][385]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.02.19-01.27.25:827][385]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-01.27.25:848][385]LogInit: FAudioDevice initialized.
+[2020.02.19-01.27.25:859][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-01.27.25:896][385]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-01.27.25:908][385]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-17.27.25
+[2020.02.19-01.27.25:910][385]LogWorld: Bringing up level for play took: 0.012728
+[2020.02.19-01.27.25:928][385]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.01
+[2020.02.19-01.27.25:928][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.27.27:463][440]Cmd: RestartLevel
+[2020.02.19-01.27.27:487][441]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?restart
+[2020.02.19-01.27.27:490][441]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-01.27.27:559][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.02.19-01.27.27:562][441]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-01.27.27:589][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026884s)
+[2020.02.19-01.27.27:590][441]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-01.27.27:590][441]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2020.02.19-01.27.27:590][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027748s)
+[2020.02.19-01.27.27:590][441]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-01.27.27:605][441]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-17.27.27
+[2020.02.19-01.27.27:606][441]LogWorld: Bringing up level for play took: 0.015398
+[2020.02.19-01.27.27:607][441]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.19-01.27.27:610][441]LogLoad: Took 0.119256 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2020.02.19-01.27.29:845][530]Cmd: RestartLevel
+[2020.02.19-01.27.29:865][531]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?restart
+[2020.02.19-01.27.29:868][531]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-01.27.29:934][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.02.19-01.27.29:934][531]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-01.27.29:962][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027657s)
+[2020.02.19-01.27.29:962][531]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-01.27.29:962][531]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2020.02.19-01.27.29:962][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028462s)
+[2020.02.19-01.27.29:963][531]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-01.27.29:976][531]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-17.27.29
+[2020.02.19-01.27.29:978][531]LogWorld: Bringing up level for play took: 0.014251
+[2020.02.19-01.27.29:978][531]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.19-01.27.29:980][531]LogLoad: Took 0.111585 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2020.02.19-01.27.31:467][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.27.31:467][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-01.27.31:498][590]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-01.27.31:545][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-01.27.31:545][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-01.27.31:612][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.02.19-01.27.31:644][591]LogPlayLevel: Display: Destroying online subsystem :Context_24
