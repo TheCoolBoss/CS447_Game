@@ -2221,3 +2221,861 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.19-05.50.46:268][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2020.02.19-05.50.46:907][655]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/ThirdPersonExampleMap2204FACD45F8D08BB10A258099D4A4D3.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.02.19-05.50.46:963][655]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.753
+[2020.02.19-05.51.48:182][791]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor)
+[2020.02.19-05.51.48:833][825]LogEditorViewport: Clicking on Actor (context menu): doorActor_C (doorActor)
+[2020.02.19-05.51.48:868][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-05.51.52:102][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.19-05.52.06:439][671]LogEditorViewport: Clicking on Actor (LMB): Actor (Wall19)
+[2020.02.19-05.52.07:435][726]LogEditorViewport: Clicking on Actor (LMB): key_actor_C (key_actor2)
+[2020.02.19-05.52.09:031][818]LogEditorViewport: Clicking on Actor (context menu): key_actor_C (key_actor2)
+[2020.02.19-05.52.09:072][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-05.52.09:994][872]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.19-05.52.10:016][872]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/key_actor.key_actor
+[2020.02.19-05.52.27:844][640]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor)
+[2020.02.19-05.52.28:620][683]LogEditorViewport: Clicking on Actor (context menu): doorActor_C (doorActor)
+[2020.02.19-05.52.28:664][683]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-05.52.29:660][736]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.19-05.52.29:680][736]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/doorActor.doorActor
+[2020.02.19-05.52.39:012][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-05.54.05:706][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/key_actor" FILE="../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/key_actor.uasset" SILENT=true
+[2020.02.19-05.54.05:750][668]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/key_actorE0DF87BC46470705CBE44983D2A4909B.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/key_actor.uasset'
+[2020.02.19-05.54.06:036][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-05.54.06:127][683]BlueprintLog: New page: Compile key_actor
+[2020.02.19-05.54.06:464][683]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.02.19-05.54.07:940][741]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-05.54.08:010][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.54.08:010][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-05.54.08:010][741]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 1:54:08 PM)
+[2020.02.19-05.54.08:010][741]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-05.54.08:043][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033553s)
+[2020.02.19-05.54.08:043][741]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-05.54.08:044][741]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.02.19-05.54.08:044][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034638s)
+[2020.02.19-05.54.08:104][741]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.02.19-05.54.08:118][741]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-05.54.08:142][741]LogInit: FAudioDevice initialized.
+[2020.02.19-05.54.08:151][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-05.54.08:186][741]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-05.54.08:203][741]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-21.54.08
+[2020.02.19-05.54.08:207][741]LogWorld: Bringing up level for play took: 0.019532
+[2020.02.19-05.54.08:224][741]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.683
+[2020.02.19-05.54.08:224][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.54.14:600][934]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-05.54.18:957][ 75]LogBlueprintUserMessages: [Enemy_4] I see Player
+[2020.02.19-05.54.23:159][212]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.54.32:181][507]LogBlueprintUserMessages: [Enemy_5] I see Player
+[2020.02.19-05.54.38:786][718]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-05.54.38:815][719]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-05.54.38:982][724]LogBlueprintUserMessages: [Enemy_4] I see Player
+[2020.02.19-05.54.39:014][725]LogBlueprintUserMessages: [Enemy_4] I see Player
+[2020.02.19-05.54.39:213][731]LogBlueprintUserMessages: [Enemy_5] I see Player
+[2020.02.19-05.54.39:242][732]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-05.54.39:279][733]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-05.54.39:343][735]LogBlueprintUserMessages: [Enemy_5] I see Player
+[2020.02.19-05.54.39:607][743]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.54.39:735][747]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.54.45:048][915]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.54.45:063][916]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.54.45:989][946]LogBlueprintUserMessages: [Enemy_4] I see Player
+[2020.02.19-05.54.46:088][949]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.54.46:110][950]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.54.50:195][ 87]Cmd: RestartLevel
+[2020.02.19-05.54.50:240][ 88]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?restart
+[2020.02.19-05.54.50:242][ 88]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-05.54.50:329][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.02.19-05.54.50:329][ 88]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-05.54.50:359][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030176s)
+[2020.02.19-05.54.50:360][ 88]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-05.54.50:360][ 88]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2020.02.19-05.54.50:360][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031058s)
+[2020.02.19-05.54.50:360][ 88]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-05.54.50:381][ 88]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-21.54.50
+[2020.02.19-05.54.50:383][ 88]LogWorld: Bringing up level for play took: 0.022193
+[2020.02.19-05.54.50:384][ 88]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.19-05.54.50:386][ 88]LogLoad: Took 0.142924 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2020.02.19-05.54.52:852][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.54.52:854][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-05.54.52:900][168]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-05.54.52:946][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-05.54.52:946][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.54.53:042][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.02.19-05.54.53:089][169]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.02.19-05.55.35:481][ 18]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-05.55.35:587][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.55.35:587][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-05.55.35:587][ 18]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 1:55:35 PM)
+[2020.02.19-05.55.35:587][ 18]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-05.55.35:618][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030444s)
+[2020.02.19-05.55.35:618][ 18]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-05.55.35:618][ 18]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2020.02.19-05.55.35:618][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031263s)
+[2020.02.19-05.55.35:680][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.02.19-05.55.35:691][ 18]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-05.55.35:712][ 18]LogInit: FAudioDevice initialized.
+[2020.02.19-05.55.35:723][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-05.55.35:752][ 18]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-05.55.35:765][ 18]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-21.55.35
+[2020.02.19-05.55.35:767][ 18]LogWorld: Bringing up level for play took: 0.014713
+[2020.02.19-05.55.35:786][ 18]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.878
+[2020.02.19-05.55.35:787][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.55.43:462][267]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.43:463][267]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.43:492][268]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.43:492][268]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.43:964][282]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.43:964][282]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.46:698][366]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.46:729][367]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:205][413]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.48:207][413]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.48:235][414]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.48:239][414]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:239][414]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:272][415]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.48:274][415]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:303][416]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:334][417]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:365][418]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:365][418]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:365][418]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:365][418]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:527][423]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.48:560][424]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:766][430]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.48:768][430]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.48:802][431]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.55.48:803][431]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:803][431]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.48:835][432]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-05.55.50:379][480]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-05.55.55:052][625]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.55:053][625]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.55:088][626]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.55:088][626]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.55:088][626]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.55:088][626]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.56:040][656]LogBlueprintUserMessages: [Enemy_6] I see Player
+[2020.02.19-05.55.56:433][668]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.56:464][669]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.56:782][679]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.56:782][679]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.56:882][682]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.58:013][717]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:080][750]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:114][751]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:114][751]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:497][763]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:528][764]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:532][764]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:532][764]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:564][765]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:564][765]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:594][766]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:625][767]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:625][767]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:683][769]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:686][769]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:718][770]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:718][770]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:718][770]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:748][771]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:750][771]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:751][771]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:751][771]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:783][772]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:784][772]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:785][772]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:785][772]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:785][772]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:785][772]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:818][773]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:818][773]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:818][773]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:818][773]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:819][773]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:852][774]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:852][774]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:852][774]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:852][774]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:883][775]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:885][775]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:886][775]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:886][775]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:919][776]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:920][776]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:920][776]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:920][776]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:920][776]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:954][777]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:956][777]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:957][777]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.55.59:989][778]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.55.59:993][778]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.55.59:993][778]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.00:032][779]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.00:033][779]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.02:963][864]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-05.56.03:029][866]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.03:050][867]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.03:051][867]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.03:092][868]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.03:116][869]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.03:124][869]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.03:125][869]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.03:156][870]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.03:159][870]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.03:160][870]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.03:188][871]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.03:191][871]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.03:191][871]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.03:220][872]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.03:220][872]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:073][929]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:076][929]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:116][930]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:117][930]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:117][930]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:117][930]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:117][930]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:151][931]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:152][931]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:153][931]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:154][931]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:154][931]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:191][932]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:193][932]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:194][932]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:194][932]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:194][932]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:194][932]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:194][932]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:221][933]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:223][933]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:225][933]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:225][933]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:251][934]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:252][934]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:252][934]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:253][934]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:253][934]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:291][935]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:295][935]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:295][935]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:322][936]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:322][936]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:353][937]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:388][938]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:388][938]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:415][939]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:448][940]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:450][940]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:451][940]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:451][940]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:479][941]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:480][941]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:484][941]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:484][941]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:485][941]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:485][941]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:485][941]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:515][942]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:515][942]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:515][942]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:515][942]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:515][942]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:516][942]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:516][942]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:545][943]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:548][943]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:548][943]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:581][944]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:581][944]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:581][944]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:614][945]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:615][945]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:617][945]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:617][945]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:649][946]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:650][946]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:650][946]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:650][946]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:650][946]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:680][947]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:683][947]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:683][947]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:715][948]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:717][948]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:717][948]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:718][948]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:748][949]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:750][949]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:752][949]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:752][949]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:752][949]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:752][949]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:785][950]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:785][950]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:785][950]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:786][950]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:786][950]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:818][951]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:818][951]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:820][951]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:820][951]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:850][952]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:853][952]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:853][952]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:854][952]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:854][952]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:854][952]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:887][953]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:888][953]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:890][953]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:891][953]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:892][953]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:892][953]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:892][953]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:925][954]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:928][954]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:928][954]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:928][954]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:928][954]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:928][954]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:928][954]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:957][955]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:960][955]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:960][955]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.05:983][956]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.05:987][956]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.05:988][956]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:027][957]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:029][957]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:030][957]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:058][958]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:059][958]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:095][959]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:097][959]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:126][960]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:127][960]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:127][960]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:128][960]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:128][960]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:162][961]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:164][961]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:165][961]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:165][961]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:194][962]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:196][962]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:199][962]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:199][962]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:199][962]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:199][962]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:234][963]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:236][963]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:236][963]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:237][963]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:237][963]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:269][964]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:271][964]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:271][964]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:304][965]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:306][965]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:306][965]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:344][966]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:345][966]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:506][971]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:533][972]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:534][972]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:571][973]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:598][974]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:605][974]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:606][974]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:639][975]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:639][975]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:732][978]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:766][979]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:768][979]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:768][979]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:798][980]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:802][980]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:802][980]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:803][980]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:834][981]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:835][981]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:836][981]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:836][981]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:836][981]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:836][981]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:869][982]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:869][982]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:869][982]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:869][982]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:869][982]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:899][983]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:903][983]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:933][984]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:935][984]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:935][984]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:935][984]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:935][984]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.06:966][985]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:967][985]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:969][985]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.06:969][985]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:969][985]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:969][985]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.06:970][985]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:001][986]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.07:004][986]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.07:004][986]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:004][986]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:004][986]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:005][986]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:005][986]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:005][986]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:005][986]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:005][986]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:005][986]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:005][986]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:034][987]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.07:037][987]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.07:038][987]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:038][987]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:038][987]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:038][987]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:038][987]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:038][987]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:038][987]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:038][987]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:072][988]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.07:075][988]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:075][988]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:076][988]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:076][988]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:076][988]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:076][988]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:076][988]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:076][988]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:105][989]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.07:108][989]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.07:109][989]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:109][989]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:109][989]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:109][989]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:109][989]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:109][989]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:138][990]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.07:142][990]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:142][990]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:142][990]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:142][990]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:143][990]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:143][990]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:143][990]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:143][990]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:143][990]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:143][990]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:171][991]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.07:172][991]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:172][991]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:172][991]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:172][991]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:173][991]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:173][991]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:173][991]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:173][991]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:207][992]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:207][992]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:207][992]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:207][992]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:207][992]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:207][992]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:207][992]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:207][992]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:235][993]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:235][993]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:236][993]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:236][993]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:236][993]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:236][993]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:272][994]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:272][994]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:272][994]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:272][994]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:272][994]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:305][995]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:305][995]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:305][995]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:305][995]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:305][995]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:337][996]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:337][996]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:337][996]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:337][996]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:337][996]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:337][996]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:367][997]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:368][997]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:368][997]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:368][997]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:368][997]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:368][997]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:401][998]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:401][998]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:401][998]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:401][998]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:401][998]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:401][998]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:434][999]LogBlueprintUserMessages: [Rock_C_2] SOUND
+[2020.02.19-05.56.07:435][999]LogBlueprintUserMessages: [Rock_C_2] SOUND
+[2020.02.19-05.56.07:437][999]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:437][999]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:437][999]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:437][999]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:437][999]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:437][999]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:470][  0]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:471][  0]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:471][  0]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:471][  0]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:471][  0]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:471][  0]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-05.56.07:471][  0]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-05.56.07:471][  0]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:505][  1]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:506][  1]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:506][  1]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:506][  1]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:506][  1]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:506][  1]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:541][  2]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:542][  2]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:542][  2]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:542][  2]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:542][  2]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:542][  2]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:577][  3]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:577][  3]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:577][  3]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:577][  3]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:577][  3]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:578][  3]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:608][  4]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:608][  4]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:608][  4]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:608][  4]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:608][  4]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:609][  4]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:646][  5]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:647][  5]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:647][  5]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:647][  5]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:647][  5]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:647][  5]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:681][  6]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-05.56.07:681][  6]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:681][  6]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:682][  6]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:682][  6]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-05.56.07:715][  7]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-05.56.07:715][  7]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-05.56.08:179][ 21]LogBlueprintUserMessages: [Rock_C_2] SOUND
+[2020.02.19-05.56.08:205][ 22]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-05.56.08:701][ 37]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-05.56.10:809][101]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.56.17:404][304]LogBlueprintUserMessages: [Rock_C_3] SOUND
+[2020.02.19-05.56.17:405][304]LogBlueprintUserMessages: [Rock_C_3] SOUND
+[2020.02.19-05.56.17:436][305]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.56.17:436][305]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.56.17:436][305]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.56.17:436][305]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.56.17:674][312]LogBlueprintUserMessages: [Rock_C_3] SOUND
+[2020.02.19-05.56.17:708][313]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.56.17:772][315]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.56.20:049][385]LogBlueprintUserMessages: [Rock_C_3] SOUND
+[2020.02.19-05.56.20:082][386]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.56.20:082][386]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-05.56.20:279][392]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.56.20:280][392]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-05.56.20:473][398]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-05.56.22:790][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.56.22:791][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-05.56.22:832][469]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-05.56.22:898][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-05.56.22:898][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.56.22:997][469]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.02.19-05.56.23:064][470]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.02.19-05.57.06:022][356]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-05.57.06:098][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.57.06:098][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-05.57.06:098][356]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 1:57:06 PM)
+[2020.02.19-05.57.06:098][356]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-05.57.06:130][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031277s)
+[2020.02.19-05.57.06:130][356]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-05.57.06:131][356]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2020.02.19-05.57.06:131][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032109s)
+[2020.02.19-05.57.06:190][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.02.19-05.57.06:204][356]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-05.57.06:228][356]LogInit: FAudioDevice initialized.
+[2020.02.19-05.57.06:241][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-05.57.06:273][356]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-05.57.06:286][356]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-21.57.06
+[2020.02.19-05.57.06:290][356]LogWorld: Bringing up level for play took: 0.016096
+[2020.02.19-05.57.06:312][356]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.596
+[2020.02.19-05.57.06:313][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.57.17:492][802]LogBlueprintUserMessages: [Enemy_4] I see Player
+[2020.02.19-05.57.20:123][906]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.57.31:139][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.57.31:140][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-05.57.31:181][343]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-05.57.31:246][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-05.57.31:247][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.57.31:323][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.02.19-05.57.31:361][344]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.02.19-05.57.33:047][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/key_actor" FILE="../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/key_actor.uasset" SILENT=true
+[2020.02.19-05.57.33:082][414]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/key_actor132D27AF4215D52E065A079FCAE8F551.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/key_actor.uasset'
+[2020.02.19-05.57.33:723][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-05.57.33:796][443]BlueprintLog: New page: Compile key_actor
+[2020.02.19-05.57.34:120][443]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.02.19-05.59.32:616][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/key_actor" FILE="../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/key_actor.uasset" SILENT=true
+[2020.02.19-05.59.32:659][600]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/key_actor4F621D7D4D31A01A867000AEA0293712.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/key_actor.uasset'
+[2020.02.19-05.59.33:252][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-05.59.33:329][627]BlueprintLog: New page: Compile key_actor
+[2020.02.19-05.59.33:669][627]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2020.02.19-05.59.36:279][737]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-05.59.36:344][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.59.36:344][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-05.59.36:344][737]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 1:59:36 PM)
+[2020.02.19-05.59.36:344][737]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-05.59.36:379][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034590s)
+[2020.02.19-05.59.36:379][737]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-05.59.36:380][737]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2020.02.19-05.59.36:380][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035501s)
+[2020.02.19-05.59.36:442][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.02.19-05.59.36:455][737]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-05.59.36:478][737]LogInit: FAudioDevice initialized.
+[2020.02.19-05.59.36:490][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-05.59.36:525][737]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-05.59.36:538][737]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-21.59.36
+[2020.02.19-05.59.36:541][737]LogWorld: Bringing up level for play took: 0.014917
+[2020.02.19-05.59.36:559][737]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.349
+[2020.02.19-05.59.36:560][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-05.59.50:896][298]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-05.59.51:743][332]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.59.51:744][332]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.59.51:769][333]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.59.51:769][333]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.59.51:794][334]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.59.51:794][334]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.59.52:359][356]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.59.52:379][357]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.59.52:552][364]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-05.59.58:495][604]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-05.59.58:527][605]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-05.59.59:362][639]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.00:272][675]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.00:296][676]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.00:442][682]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.00:594][688]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.00:621][689]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.00:647][690]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.02:611][768]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.02:612][768]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.02:638][769]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.02:638][769]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.03:079][787]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.03:079][787]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.04:513][843]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.04:538][844]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.05:062][865]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.05:328][876]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.05:376][878]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.06:158][909]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-06.00.09:943][ 61]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-06.00.10:548][ 85]LogBlueprintUserMessages: [Enemy_6] I see Player
+[2020.02.19-06.00.10:859][ 97]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.10:881][ 98]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.11:838][136]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:244][191]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.13:266][192]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:267][192]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:542][203]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.13:562][204]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.13:565][204]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:565][204]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:592][205]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.13:593][205]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:594][205]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:616][206]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:616][206]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:641][207]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.13:663][208]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:664][208]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:690][209]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.13:711][210]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:712][210]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:742][211]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.13:744][211]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:765][212]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:766][212]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:766][212]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:766][212]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:766][212]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:792][213]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:792][213]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:792][213]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:817][214]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:817][214]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:817][214]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:843][215]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:843][215]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:866][216]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:891][217]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-06.00.13:893][217]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:920][218]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:920][218]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.13:967][220]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.13:968][220]LogBlueprintUserMessages: [Enemy_6] I hear Rock
+[2020.02.19-06.00.14:838][254]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.14:860][255]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.14:861][255]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:345][314]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:597][324]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.16:625][325]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.16:627][325]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:627][325]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:654][326]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:654][326]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:765][330]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.16:768][330]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:768][330]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:795][331]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.16:797][331]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:797][331]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:797][331]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:797][331]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:797][331]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:826][332]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:826][332]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:850][333]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:878][334]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:878][334]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:878][334]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:904][335]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.16:928][336]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:929][336]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.16:976][338]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.16:977][338]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.18:447][397]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-06.00.20:423][476]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-06.00.22:390][554]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-06.00.23:019][579]LogBlueprintUserMessages: [Rock_C_2] SOUND
+[2020.02.19-06.00.23:020][579]LogBlueprintUserMessages: [Rock_C_2] SOUND
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.23:049][580]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.23:076][581]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.23:076][581]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.24:677][644]LogBlueprintUserMessages: [Rock_C_3] SOUND
+[2020.02.19-06.00.24:678][644]LogBlueprintUserMessages: [Rock_C_3] SOUND
+[2020.02.19-06.00.24:709][645]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.24:710][645]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.24:710][645]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.24:710][645]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.24:710][645]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.24:710][645]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.24:710][645]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.24:710][645]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.24:731][646]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.24:731][646]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.24:809][649]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.24:832][650]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.26:141][702]LogBlueprintUserMessages: [Enemy_5] I see Player
+[2020.02.19-06.00.26:163][703]LogBlueprintUserMessages: [Enemy_5] I see Player
+[2020.02.19-06.00.27:425][753]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-06.00.27:426][753]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-06.00.28:070][778]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.28:850][806]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-06.00.28:948][810]LogBlueprintUserMessages: [Rock_C_4] SOUND
+[2020.02.19-06.00.28:949][810]LogBlueprintUserMessages: [Rock_C_4] SOUND
+[2020.02.19-06.00.28:974][811]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.28:975][811]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.28:975][811]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.28:975][811]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.28:975][811]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.28:975][811]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.28:997][812]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.28:997][812]LogBlueprintUserMessages: [Enemy_5] I hear Rock
+[2020.02.19-06.00.29:024][813]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.29:053][814]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-06.00.29:134][817]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.29:162][818]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-06.00.32:248][941]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.32:562][954]LogBlueprintUserMessages: [Rock_C_4] SOUND
+[2020.02.19-06.00.36:375][107]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-06.00.37:430][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-06.00.37:431][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-06.00.37:468][150]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-06.00.37:534][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-06.00.37:534][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-06.00.37:617][150]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.02.19-06.00.37:657][151]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.02.19-06.03.42:863][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.02.19-06.03.43:448][261]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/ThirdPersonExampleMap_Auto23BBEAE5E4ECFCED5490DF494558B1756.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.02.19-06.03.43:454][261]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.650
+[2020.02.19-06.03.43:454][261]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.650
+[2020.02.19-06.10.00:390][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-06.10.03:779][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/key_actor" FILE="../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/key_actor.uasset" SILENT=true
+[2020.02.19-06.10.03:836][441]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/key_actor49A42CB44D95258F21AB55969FE58B3D.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/key_actor.uasset'
+[2020.02.19-06.10.05:760][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-06.10.05:839][513]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-06.10.05:923][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-06.10.05:923][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-06.10.05:924][513]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 2:10:05 PM)
+[2020.02.19-06.10.05:924][513]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-06.10.05:979][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054749s)
+[2020.02.19-06.10.05:980][513]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-06.10.05:980][513]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2020.02.19-06.10.05:980][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056171s)
+[2020.02.19-06.10.06:067][513]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.02.19-06.10.06:081][513]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-06.10.06:107][513]LogInit: FAudioDevice initialized.
+[2020.02.19-06.10.06:120][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-06.10.06:153][513]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-06.10.06:171][513]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-22.10.06
+[2020.02.19-06.10.06:175][513]LogWorld: Bringing up level for play took: 0.020966
+[2020.02.19-06.10.06:196][513]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.288
+[2020.02.19-06.10.06:197][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-06.10.08:026][573]Cmd: RestartLevel
+[2020.02.19-06.10.08:051][574]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?restart
+[2020.02.19-06.10.08:053][574]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-06.10.08:129][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.19-06.10.08:129][574]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-06.10.08:158][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029041s)
+[2020.02.19-06.10.08:159][574]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-06.10.08:159][574]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2020.02.19-06.10.08:159][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029846s)
+[2020.02.19-06.10.08:159][574]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-06.10.08:177][574]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.18-22.10.08
+[2020.02.19-06.10.08:180][574]LogWorld: Bringing up level for play took: 0.019683
+[2020.02.19-06.10.08:180][574]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.19-06.10.08:182][574]LogLoad: Took 0.129314 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2020.02.19-06.10.18:262][981]LogBlueprintUserMessages: [Enemy_4] I see Player
+[2020.02.19-06.10.20:711][ 80]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-06.10.24:996][251]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-06.10.25:026][252]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-06.10.28:279][382]LogBlueprintUserMessages: [Enemy_5] I see Player
+[2020.02.19-06.10.30:761][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-06.10.30:762][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-06.10.30:797][481]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-06.10.30:846][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-06.10.30:847][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-06.10.30:927][481]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.02.19-06.10.30:958][482]LogPlayLevel: Display: Destroying online subsystem :Context_44
