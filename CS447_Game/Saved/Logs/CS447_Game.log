@@ -903,3 +903,275 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.19-00.40.58:312][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2020.02.19-00.40.58:381][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
 [2020.02.19-00.40.58:447][307]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.19-00.41.47:713][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-00.41.59:589][235]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor)
+[2020.02.19-00.42.27:322][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-00.42.27:480][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.19-00.42.28:527][999]LogSlate: Window 'Save Content' being destroyed
+[2020.02.19-00.42.28:544][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-00.42.28:600][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/doorActor" FILE="../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/doorActor.uasset" SILENT=true
+[2020.02.19-00.42.28:659][999]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/doorActor59B3E8DC43CCE48BDE2512BDC7CFD65F.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/doorActor.uasset'
+[2020.02.19-00.42.28:725][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.02.19-00.42.29:239][999]LogSavePackage: Moving '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Saved/ThirdPersonExampleMapB43A2E534AAC2F90B4B147A2D41A34A8.tmp' to '../../../../../../Users/matth/Documents/GitHub/CS447_Game/CS447_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.19-00.42.29:297][999]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.623
+[2020.02.19-00.42.30:041][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-00.42.30:126][ 53]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-00.42.30:157][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.42.30:157][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-00.42.30:157][ 53]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 8:42:30 AM)
+[2020.02.19-00.42.30:157][ 53]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-00.42.30:189][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031646s)
+[2020.02.19-00.42.30:190][ 53]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-00.42.30:190][ 53]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2020.02.19-00.42.30:190][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032539s)
+[2020.02.19-00.42.30:236][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.19-00.42.30:249][ 53]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-00.42.30:273][ 53]LogInit: FAudioDevice initialized.
+[2020.02.19-00.42.30:283][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.42.30:315][ 53]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-00.42.30:329][ 53]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.18-16.42.30
+[2020.02.19-00.42.30:331][ 53]LogWorld: Bringing up level for play took: 0.014994
+[2020.02.19-00.42.30:350][ 53]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.568
+[2020.02.19-00.42.30:350][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.42.32:706][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.42.32:706][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.42.32:736][198]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-00.42.32:782][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-00.42.32:783][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.42.32:838][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.19-00.42.32:852][199]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.19-00.42.33:569][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-00.42.33:616][249]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-00.42.33:650][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.42.33:651][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-00.42.33:651][249]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 8:42:33 AM)
+[2020.02.19-00.42.33:651][249]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-00.42.33:686][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035121s)
+[2020.02.19-00.42.33:687][249]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-00.42.33:687][249]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2020.02.19-00.42.33:687][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035989s)
+[2020.02.19-00.42.33:728][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.02.19-00.42.33:738][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-00.42.33:760][249]LogInit: FAudioDevice initialized.
+[2020.02.19-00.42.33:768][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.42.33:804][249]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-00.42.33:818][249]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.18-16.42.33
+[2020.02.19-00.42.33:821][249]LogWorld: Bringing up level for play took: 0.015712
+[2020.02.19-00.42.33:839][249]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.921
+[2020.02.19-00.42.33:839][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.42.37:984][454]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.42.44:832][792]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.42.46:313][867]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-00.42.50:280][ 62]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.42.50:324][ 64]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.42.50:325][ 64]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.42.50:342][ 65]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.50:343][ 65]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.50:344][ 65]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.42.50:344][ 65]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.42.50:356][ 66]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.50:356][ 66]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.50:527][ 74]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.42.50:527][ 74]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.42.52:235][157]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.42.52:252][158]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.52:794][185]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.55:279][308]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.42.55:292][309]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.55:293][309]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.42.55:427][315]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.55:428][315]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.42.57:540][419]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.42.57:569][420]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.42.57:572][420]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.57:572][420]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.42.57:584][421]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.57:585][421]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.42.57:750][429]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.42.57:753][429]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.57:754][429]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.57:754][429]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.42.57:754][429]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.42.57:762][430]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.42.57:763][430]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.02:874][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.43.02:875][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.43.02:909][686]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-00.43.02:987][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-00.43.02:987][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.43.03:057][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.19-00.43.03:076][687]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.19-00.43.07:086][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-00.43.07:146][958]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-00.43.07:183][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.43.07:183][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-00.43.07:183][958]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 8:43:07 AM)
+[2020.02.19-00.43.07:183][958]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-00.43.07:212][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028481s)
+[2020.02.19-00.43.07:212][958]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-00.43.07:213][958]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2020.02.19-00.43.07:213][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029475s)
+[2020.02.19-00.43.07:253][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.02.19-00.43.07:266][958]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-00.43.07:289][958]LogInit: FAudioDevice initialized.
+[2020.02.19-00.43.07:298][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.43.07:333][958]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-00.43.07:346][958]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.18-16.43.07
+[2020.02.19-00.43.07:348][958]LogWorld: Bringing up level for play took: 0.014347
+[2020.02.19-00.43.07:365][958]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.448
+[2020.02.19-00.43.07:366][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.43.11:377][157]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.43.21:417][651]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-00.43.23:721][763]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.43.23:721][763]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.43.23:734][764]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.23:734][764]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.23:734][764]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.23:734][764]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.23:750][765]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.23:750][765]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.23:751][765]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.23:771][766]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.25:772][863]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.25:773][863]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.25:775][863]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.25:786][864]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.25:786][864]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.25:786][864]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.25:787][864]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.25:787][864]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.25:787][864]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.25:922][870]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.25:922][870]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.25:935][871]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.25:935][871]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.25:952][872]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.25:981][873]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:125][880]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.26:136][881]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:136][881]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.26:153][882]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.26:173][883]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:173][883]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.26:428][895]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.26:445][897]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:505][899]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.26:529][900]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:622][905]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.26:642][906]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:643][906]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.26:852][916]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:853][916]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.26:885][918]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.26:918][919]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.26:924][919]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:924][919]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.26:942][920]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:943][920]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.26:989][922]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:990][922]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.26:990][922]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.26:990][922]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:203][932]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.27:218][933]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:219][933]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:474][945]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.27:494][946]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.27:497][946]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:498][946]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:526][947]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:526][947]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:593][951]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.27:625][952]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.27:627][952]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:627][952]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:638][953]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:639][953]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:655][954]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:655][954]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:655][954]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:655][954]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:674][955]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:674][955]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:723][957]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:724][957]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:753][959]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:753][959]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:797][961]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.27:822][962]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:823][962]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:930][967]LogBlueprintUserMessages: [Rock_C_1] SOUND
+[2020.02.19-00.43.27:932][967]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:933][967]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.27:940][968]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.27:941][968]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.28:011][971]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.43.28:011][971]LogBlueprintUserMessages: [Enemy_3] I hear Rock
+[2020.02.19-00.43.29:960][ 66]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.43.32:271][179]LogBlueprintUserMessages: [Enemy_3] I see Player
+[2020.02.19-00.43.42:870][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.43.42:871][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.43.42:919][702]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-00.43.42:983][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-00.43.42:983][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.43.43:054][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.02.19-00.43.43:072][703]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.19-00.43.45:507][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-00.43.45:593][868]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-00.43.45:627][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.43.45:628][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-00.43.45:628][868]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2020, 8:43:45 AM)
+[2020.02.19-00.43.45:628][868]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.19-00.43.45:660][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031641s)
+[2020.02.19-00.43.45:660][868]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-00.43.45:661][868]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2020.02.19-00.43.45:661][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032524s)
+[2020.02.19-00.43.45:700][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.02.19-00.43.45:713][868]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-00.43.45:736][868]LogInit: FAudioDevice initialized.
+[2020.02.19-00.43.45:746][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.43.45:781][868]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-00.43.45:792][868]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.18-16.43.45
+[2020.02.19-00.43.45:794][868]LogWorld: Bringing up level for play took: 0.012251
+[2020.02.19-00.43.45:810][868]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.893
+[2020.02.19-00.43.45:811][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.43.50:585][124]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.43.54:477][315]LogBlueprintUserMessages: [Enemy_2] I see Player
+[2020.02.19-00.43.57:390][459]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-00.44.00:181][596]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.44.00:183][596]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.44.00:205][597]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.00:205][597]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.00:216][598]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.00:216][598]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.01:165][644]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.44.01:165][644]LogBlueprintUserMessages: [Enemy_2] I hear Rock
+[2020.02.19-00.44.01:984][685]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.44.02:020][686]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.02:423][706]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.02:689][719]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.44.02:720][720]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.02:890][729]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.03:832][775]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-00.44.04:873][827]LogBlueprintUserMessages: [Enemy_1] I see Player
+[2020.02.19-00.44.05:689][868]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.44.05:709][869]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.44.05:716][869]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.05:741][870]LogBlueprintUserMessages: [Rock_C_0] SOUND
+[2020.02.19-00.44.05:743][870]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.05:755][871]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.05:813][874]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.05:847][875]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.05:847][875]LogBlueprintUserMessages: [Enemy_1] I hear Rock
+[2020.02.19-00.44.07:490][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.44.07:492][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-00.44.07:531][958]LogSlate: Window 'CS447_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-00.44.07:581][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-00.44.07:582][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-00.44.07:653][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.02.19-00.44.07:672][959]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.19-00.44.10:433][143]LogEditorViewport: Clicking on Actor (LMB): doorActor_C (doorActor)
+[2020.02.19-00.44.10:858][168]LogEditorViewport: Clicking on Actor (context menu): doorActor_C (doorActor)
+[2020.02.19-00.44.10:904][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-00.44.13:414][351]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.19-00.44.15:321][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
